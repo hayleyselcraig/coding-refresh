@@ -10,7 +10,7 @@ Id like to just practice what i done today but taking it to that next level. I t
 
 ## Week 1 - Day 2 - 01/08/26
 # What new concept did I learn today?
-Again i didnt learn anything new that i havent went over before in the CFG degree but practicing if statements was a good refresh.
+Again i didnt learn anything new that i havent went over before in the CFG degree but practicing if statements was a good refresh. Creating the small number guessing game was also good practice and I kept wondering where the new input should go inside the loop. Working through that mistake helped me understand how the loop flows from top to bottom and why the user's guess has to be updated each time.
 # What bug did I fix?
 When writing the if statement i was comparing the input rather than the coding_preference variable. I corrected this.
 # What did I find easier today than yesterday?
