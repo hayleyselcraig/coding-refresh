@@ -16,4 +16,14 @@ When writing the if statement i was comparing the input rather than the coding_p
 # What did I find easier today than yesterday?
 Printing and using f strings fekt easier today because i remembered the syntax for this from the last practice session.
 # What do I want to improve next?
-Just taking everyything that step further, i did do a lot nmore advanced stuff within the degree but i want to refresh pracrtice all my skills again.
+Just taking everything that step further, i did do a lot nmore advanced stuff within the degree but i want to refresh pracrtice all my skills again.
+
+## Week 1 - Day 3 - 02/08/26
+## What did I realise about functions today?
+That they can be really useful especially if you find that you are repeating code. It saves you time and makes your code look a lot cleaner. I realised that you can use function with 0 parameters or as many as you need. I need to remember that even though ive defined a function, i still need to call it for it to run.
+## Which concept from my previous practice sessions did I use the most while building the calculator?
+I defined a function to display a welcome message, if statements to check what operation the user wanted to use and made a calculation based on that. I also used f strings to create more personalised print messages to the user based on their inputs. 
+## What part of building the calculator made me stop and think the most, and how did I work through it?
+The if statements i had to think about where and how i wanted each calculation to be stored. I decided to store it in a variable called "Result". 
+## If I wanted to improve my calculator tomorrow, what feature would I add and why?
+I think making the if statements that do the calculation into a function. The program also still printed the result message even if the user didnt choose an operation correctly so that could be avoided by making sure that there was validation for what the user entered. I would also like to improve the validation so the program can handle invalid input without crashing or producing unexpected results.
