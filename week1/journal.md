@@ -1,37 +1,45 @@
 ## Week 1 - Day 1 - 31/07/26
-## What did I learn today?
+### What did I learn today?
 I wouldnt say i learned anything new that i havent done before in my course but it felt good to make a start on practicing my skills and building my confidence back up again.
-## What did I find difficult?
+### What did I find difficult?
 Trying to remember full lines of code, but i need to remember that most of the time its just small syntax issues rather than me not knowing how to solve a problem.
-## What am I proud of?
+### What am I proud of?
 I am proud of how much i actually remember from the course even if its just basic concepts and understanding. Practicing and starting from the basics is a good stepping stone for me.
-## What do I want to practise next session?
+### What do I want to practise next session?
 Id like to just practice what i done today but taking it to that next level. I think by doing it that way it will help me with my experience and confidence.
 
 ## Week 1 - Day 2 - 01/08/26
-## What new concept did I learn today?
+### What new concept did I learn today?
 Again i didnt learn anything new that i havent went over before in the CFG degree but practicing if statements was a good refresh. Creating the small number guessing game was also good practice and I kept wondering where the new input should go inside the loop. Working through that mistake helped me understand how the loop flows from top to bottom and why the user's guess has to be updated each time.
-## What bug did I fix?
+### What bug did I fix?
 When writing the if statement i was comparing the input rather than the coding_preference variable. I corrected this.
-## What did I find easier today than yesterday?
+### What did I find easier today than yesterday?
 Printing and using f strings fekt easier today because i remembered the syntax for this from the last practice session.
-## What do I want to improve next?
+### What do I want to improve next?
 Just taking everything that step further, i did do a lot nmore advanced stuff within the degree but i want to refresh pracrtice all my skills again.
 
 ## Week 1 - Day 3 - 02/08/26
-## What did I realise about functions today?
+### What did I realise about functions today?
 That they can be really useful especially if you find that you are repeating code. It saves you time and makes your code look a lot cleaner. I realised that you can use function with 0 parameters or as many as you need. I need to remember that even though ive defined a function, i still need to call it for it to run.
-## Which concept from my previous practice sessions did I use the most while building the calculator?
+### Which concept from my previous practice sessions did I use the most while building the calculator?
 I defined a function to display a welcome message, if statements to check what operation the user wanted to use and made a calculation based on that. I also used f strings to create more personalised print messages to the user based on their inputs. 
-## What part of building the calculator made me stop and think the most, and how did I work through it?
+### What part of building the calculator made me stop and think the most, and how did I work through it?
 The if statements i had to think about where and how i wanted each calculation to be stored. I decided to store it in a variable called "Result". 
-## If I wanted to improve my calculator tomorrow, what feature would I add and why?
+### If I wanted to improve my calculator tomorrow, what feature would I add and why?
 I think making the if statements that do the calculation into a function. The program also still printed the result message even if the user didnt choose an operation correctly so that could be avoided by making sure that there was validation for what the user entered. I would also like to improve the validation so the program can handle invalid input without crashing or producing unexpected results.
 
 ## Week 2 - Day 4 - 03/08/26
-## What part of today's coding session made the most sense by the end, and what helped it click?
+### What part of today's coding session made the most sense by the end, and what helped it click?
 I went over the return function which even now im still not 100% confident with and whant to practice a bit more. I feel like im struggling to know when and where to use return, then when i should use the print statement. Im going to do some more exercises as thats when i feel i really learn.
-## Which exercise did I enjoy the most today (average calculator, return practice, dog years, or something else), and why?
+### Which exercise did I enjoy the most today (average calculator, return practice, dog years, or something else), and why?
 I mostly enjoyed the dog years exercise because i found i was abkle to make it more personal by using my own dog as an example. This helps me understand what the program is doing and helps me learn my knowledge.
-## If I came back to today's code in six months' time, what would I want to remember about what I learned or discovered today?
+### If I came back to today's code in six months' time, what would I want to remember about what I learned or discovered today?
 Id say im still a little bit confused about the return statement but i can only get better and understand it by doing more practice. I hope that by looking back at this entry in six months, I'll be able to clearly explain when to use return, when to use print, and see how much more confident I've become with writing functions.
+
+## Week 2 - Day 5 - 04/08/26
+### Which part of today's coding challenged my thinking the most, and how did I work through it?
+I think just becoming more familliar with functions, I found it most challenging knowing what should be included within the function and what should remain outside. i think more practice will help.
+### Which concept from today still feels uncertain, and what do I think will help it become clearer?
+I still feel a little uncertain about using functions, particularly knowing when to use return instead of print. I think taking more time to plan what I want each function to do before I start writing the code will help me understand what belongs inside each function.
+### If I had to explain today's program to another beginner, what would I say each function was responsible for?
+Id explain that the program as a whole was to Calculate the students overall grade. function 1 was responsible for calculating the average using the 3 scores that was inputed by the user. function 2 was responsible for assigning a grade based on that average which means the functions worked together. 
