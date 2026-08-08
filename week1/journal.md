@@ -43,3 +43,11 @@ I think just becoming more familliar with functions, I found it most challenging
 I still feel a little uncertain about using functions, particularly knowing when to use return instead of print. I think taking more time to plan what I want each function to do before I start writing the code will help me understand what belongs inside each function.
 ### If I had to explain today's program to another beginner, what would I say each function was responsible for?
 Id explain that the program as a whole was to Calculate the students overall grade. function 1 was responsible for calculating the average using the 3 scores that was inputed by the user. function 2 was responsible for assigning a grade based on that average which means the functions worked together. 
+
+## Week 2 Reflection
+### What is something about functions that feels clearer to me now than it did at the start of the week?
+I feel a lot more confident with functions. I understand how to use variables within functions that have been created outside. i also understand better about the return value and when and how to use it. 
+### Which exercise this week helped my understanding the most, and what was it about that exercise that made things click?
+I think in general just practing by creating small little programs. It challenged me but it eventually started to make sense. 
+### What do I still need more practice with, and what would I like to focus on next week?
+I just want to go through each of the topics i learnt on the CFG course so i can better my knowledge. Eventually building more advanced programs.
